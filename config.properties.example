@@ -1,0 +1,7 @@
+# Kopiere diese Datei zu config.properties und trage deine Credentials ein.
+# config.properties ist via .gitignore vom Repo ausgeschlossen.
+tam.user=dein.benutzername
+tam.password=deinPasswort
+# Optional: Ausgabepfade (Defaults: grades.csv / grades.json im Arbeitsverzeichnis)
+output.csv=grades.csv
+output.json=grades.json

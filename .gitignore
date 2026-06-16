@@ -1,0 +1,12 @@
+config.properties
+config.properties.save
+grades.csv
+grades.json
+*.html
+gradebook_response.html
+login_response.html
+.gradle/
+build/
+*.iml
+.idea/
+.vscode/
